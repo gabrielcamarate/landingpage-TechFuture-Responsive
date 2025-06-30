@@ -1,6 +1,6 @@
-# Landing Page TechFuture 🚀
+# TechFuture Landing Page 🚀
 
-Projeto de uma landing page moderna e responsiva para uma empresa de tecnologia fictícia, a TechFuture, desenvolvida para ser totalmente adaptável a diferentes tamanhos de tela.
+A modern and responsive landing page project for a fictional tech company, TechFuture, designed to be fully adaptable to different screen sizes.
 
 ![GitHub language count](https://img.shields.io/github/languages/count/gabrielcamarate/landingpage-TechFuture-Responsive?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/gabrielcamarate/landingpage-TechFuture-Responsive?style=for-the-badge)
@@ -9,37 +9,37 @@ Projeto de uma landing page moderna e responsiva para uma empresa de tecnologia 
 <br>
 
 <p align="center">
-  <img src="images/preview.png" alt="Demonstração do Projeto">
+  <img src="images/preview.png" alt="Project Demo">
 </p>
 
-> ### 🔗 **[Acesse a demonstração ao vivo](https://gabrielcamarate.github.io/landingpage-TechFuture-Responsive/)**
+> ### 🔗 **[View live demo](https://gabrielcamarate.github.io/landingpage-TechFuture-Responsive/)**
 
 <br>
 
-## 📋 Índice
+## 📋 Table of Contents
 
-* [Sobre](#-sobre-o-projeto)
-* [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-* [Como Executar o Projeto](#-como-executar-o-projeto)
-* [Licença](#-licença)
-* [Contato](#-contato)
-
-<br>
-
-## 📖 Sobre o Projeto
-
-A **Landing Page TechFuture** foi criada como um exercício prático para desenvolver uma interface moderna e profissional, focada em conversão e apresentação de uma empresa de tecnologia. O layout foi construído do zero, utilizando HTML semântico, CSS com Flexbox e Media Queries para garantir a responsividade, e JavaScript para interatividade.
-
-**Funcionalidades destacadas:**
-*   **Design Totalmente Responsivo:** Adapta-se perfeitamente a desktops, tablets e smartphones.
-*   **Animações de Scroll:** Efeitos sutis de animação ao rolar a página, implementados com a biblioteca `ScrollReveal.js`.
-*   **Menu Mobile Interativo:** Menu hamburguer funcional para uma navegação fluida em dispositivos menores.
+* [About the Project](#-about-the-project)
+* [Technologies Used](#-technologies-used)
+* [How to Run the Project](#-how-to-run-the-project)
+* [License](#-license)
+* [Contact](#-contact)
 
 <br>
 
-## 💻 Tecnologias Utilizadas
+## 📖 About the Project
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+The **TechFuture Landing Page** was created as a practical exercise to develop a modern and professional interface, focused on conversion and showcasing a technology company. The layout was built from scratch using semantic HTML, CSS with Flexbox and Media Queries to ensure responsiveness, and JavaScript for interactivity.
+
+**Key Features:**
+*   **Fully Responsive Design:** Perfectly adapts to desktops, tablets, and smartphones.
+*   **Scroll Animations:** Subtle animation effects when scrolling down the page, implemented with the `ScrollReveal.js` library.
+*   **Interactive Mobile Menu:** A functional hamburger menu for smooth navigation on smaller devices.
+
+<br>
+
+## 💻 Technologies Used
+
+This project was developed using the following technologies:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -47,37 +47,37 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-*   **Biblioteca JavaScript:** [ScrollReveal.js](https://scrollrevealjs.org/)
+*   **JavaScript Library:** [ScrollReveal.js](https://scrollrevealjs.org/)
 
 <br>
 
-## 🚀 Como Executar o Projeto
+## 🚀 How to Run the Project
 
-Como este é um projeto de front-end estático, você pode executá-lo facilmente de forma local.
+Since this is a static front-end project, you can easily run it locally.
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/gabrielcamarate/landingpage-TechFuture-Responsive.git
 
-# Acesse a pasta do projeto no seu terminal
+# Navigate to the project folder in your terminal
 $ cd landingpage-TechFuture-Responsive
 ```
 
-Depois, basta abrir o arquivo `index.html` no seu navegador de preferência.
+Then, simply open the `index.html` file in your preferred browser.
 
-> **Dica:** Se você usa o Visual Studio Code, pode instalar a extensão **Live Server** para visualizar o projeto e ter recarregamento automático ao salvar alterações.
-
-<br>
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+> **Tip:** If you use Visual Studio Code, you can install the **Live Server** extension to view the project and get automatic reloading when you save changes.
 
 <br>
 
-## 📬 Contato
+## 📝 License
 
-Feito com ❤️ por Gabriel Camarate. Entre em contato!
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
+
+<br>
+
+## 📬 Contact
+
+Made with ❤️ by Gabriel Camarate. Get in touch!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcamarate/)
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcamarate@icloud.com)
