@@ -12,7 +12,7 @@ Projeto de uma landing page moderna e responsiva para uma empresa de tecnologia 
   <img src="images/preview.png" alt="Demonstração do Projeto">
 </p>
 
-> ### 🔗 **[Acesse a demonstração ao vivo](https://gabrielcamarate.github.io/landingpage-TechFuture-Responsive/)**
+> ### 🔗 **[Acesse a demonstração ao vivo](https://landingpage-tech-future-responsive.vercel.app/)**
 
 <br>
 

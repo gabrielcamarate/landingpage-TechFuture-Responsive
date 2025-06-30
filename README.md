@@ -12,7 +12,7 @@ A modern and responsive landing page project for a fictional tech company, TechF
   <img src="images/preview.png" alt="Project Demo">
 </p>
 
-> ### 🔗 **[View live demo](https://gabrielcamarate.github.io/landingpage-TechFuture-Responsive/)**
+> ### 🔗 **[View live demo](https://landingpage-tech-future-responsive.vercel.app/)**
 
 <br>
 
