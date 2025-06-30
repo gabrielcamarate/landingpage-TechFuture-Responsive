@@ -2,6 +2,8 @@
 
 A modern and responsive landing page project for a fictional tech company, TechFuture, designed to be fully adaptable to different screen sizes.
 
+[🇺🇸 English Version](README.md) | [🇧🇷 Versão em Português](PT-BR-README.md)
+
 ![GitHub language count](https://img.shields.io/github/languages/count/gabrielcamarate/landingpage-TechFuture-Responsive?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/gabrielcamarate/landingpage-TechFuture-Responsive?style=for-the-badge)
 ![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fgabrielcamarate.github.io%2Flandingpage-TechFuture-Responsive%2F&style=for-the-badge)
